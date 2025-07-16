@@ -85,12 +85,14 @@ header {
 .home-text h1 {
   font-size: 2.8rem;
   margin-bottom: 10px;
+  margin-left:-10px;
 }
 
 .home-text h2 {
   font-size: 2rem;
   color: #f44336;
   margin-bottom: 15px;
+  margin-left:-10px;
 }
 
 .home-text p {
@@ -98,6 +100,7 @@ header {
   line-height: 1.6;
   color: #ccc;
   margin-bottom: 40px;
+  margin-left:-10px;
 }
 
 .btn {
@@ -127,8 +130,8 @@ header {
 }
 
 .home-image img {
-  width: 320px;
-  height: 320px;
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
   object-fit: cover;
   border: 4px solid #f44336;
@@ -168,7 +171,7 @@ header {
   .home-text h2,
   .home-text p {
     text-align: center;
-    margin-left: -8px;
+    margin-left: -10px;
   }
 
   .btn {
