@@ -161,13 +161,14 @@ header {
 
   .home-image {
     margin-top: 35px;
-    margin-right:5px;
+    margin-left:-8px;
   }
 
   .home-text h1,
   .home-text h2,
   .home-text p {
     text-align: center;
+    margin-left: -8px;
   }
 
   .btn {
